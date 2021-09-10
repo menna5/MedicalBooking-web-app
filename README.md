@@ -2,7 +2,7 @@
 ## web application.
 #### Video Demo:  https://youtu.be/ZOCMYtHfu88
 #### Description:
-** The idea of the project **
+**The idea of the project**
 It's a web app for booking appointments with doctor. The user register and make an account with a unique username or if he/she used it before they can login.
 then there is the booking page it take your full name, number, email, day, month and the specific time he/she want to book.
 after submitting his/her reservation the user would see your appointments in appointments page.
@@ -10,7 +10,7 @@ If there is other question or want to give feedback there is a tab for inquiries
 Taking the user'name and email address then the team will contact him/her as soon as possible.
 After that the user can log out.
 
-** The code **
+**The code**
 I used flask, html, CSS and sqlite.
 
 ## Html and CSS
